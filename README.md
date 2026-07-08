@@ -76,10 +76,10 @@ Business findings, recommended actions, and strategic priorities.
 ```
 olist-ecommerce-performance-dashboard/
 │
-├── Dashboard.pbix
-├── SQL_views_POWERBI.sql
+├── screenshots
+├── /Dashboard.pbix
 ├── README.md
-└── screenshots/
+└── SQL_views_POWERBI.sql
 ```
 
 ---
