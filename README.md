@@ -88,12 +88,12 @@ olist-ecommerce-performance-dashboard/
 
 ### Executive Overview
 
-*(Add screenshot)*
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Seller Analytics
 
-*(Add screenshot)*
+![Seller Analytics](screenshots/seller_analytics.png)
 
 ### Executive Summary
 
-*(Add screenshot)*
+![Executive Summary](screenshots/executive_summary.png)
